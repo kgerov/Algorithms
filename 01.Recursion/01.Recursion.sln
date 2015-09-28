@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CombinationsWithRepetiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CombinationsWithoutRepetitions", "04.CombinationsWithoutRepetitions\04.CombinationsWithoutRepetitions.csproj", "{9B95D58A-8EE8-4CEA-BF3E-A0F457D39837}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PathsBetweenCellsInMatrix", "05.PathsBetweenCellsInMatrix\05.PathsBetweenCellsInMatrix.csproj", "{DD2F37DE-AF8E-4AD7-B681-9C9FAB01BCA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9B95D58A-8EE8-4CEA-BF3E-A0F457D39837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B95D58A-8EE8-4CEA-BF3E-A0F457D39837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B95D58A-8EE8-4CEA-BF3E-A0F457D39837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2F37DE-AF8E-4AD7-B681-9C9FAB01BCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2F37DE-AF8E-4AD7-B681-9C9FAB01BCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2F37DE-AF8E-4AD7-B681-9C9FAB01BCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2F37DE-AF8E-4AD7-B681-9C9FAB01BCA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
